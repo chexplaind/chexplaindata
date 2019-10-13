@@ -1,0 +1,15 @@
+{
+    "titleEn": "Earth",
+    "titleZh": "地球",
+    "jyutping": "dei6 kau4",
+    "pinyin": "di4 qiu2",
+    "icons": [ "earth" ],
+    "explanation": "ground ball",
+    "credit": "CC BY-NC 4.0, exc icons made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#00699420",
+    "tags": [
+        "space",
+        "planets",
+        "meaning"
+    ]
+}

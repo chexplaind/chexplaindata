@@ -1,5 +1,8 @@
 {
     "titleEn": "Hungary",
+    "titleEnAlts": [
+        "Magyarország"
+    ],
     "titleZh": "匈牙利",
     "icons": [ "hungary_flag" ],
     "jyutping": "hung1 ngaa4 lei6",

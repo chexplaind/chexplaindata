@@ -1,0 +1,19 @@
+{
+    "titleEn": "Bavaria",
+    "titleEnAlts": [
+        "Bayern"
+    ],
+    "titleZh": "拜仁",
+    "icons": [ "bavaria_flag", "bavaria_flag_lozengy" ],
+    "jyutping": "baai3 jan4",
+    "pinyin": "bai4 ren2",
+    "explanation": "bow benevolence",
+    "credit": "CC BY-NC 4.0",
+    "backgroundHex": "#ffcd1820",
+    "tags": [
+        "place",
+        "europe",
+        "germany",
+        "E2C"
+    ]
+}

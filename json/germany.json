@@ -1,6 +1,8 @@
 {
-    "time": "2019-06-14",
     "titleEn": "Germany",
+    "titleEnAlts": [
+        "Deutschland"
+    ],
     "titleZh": "德國",
     "icons": [ "germany_flag" ],
     "jyutping": "dak1 gwok3",

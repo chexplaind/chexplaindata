@@ -1,0 +1,16 @@
+{
+    "titleEn": "Liverpool",
+    "titleZh": "利物浦",
+    "jyutping": "lei6 mat6 pou2",
+    "pinyin": "li4 wu4 pu3",
+    "icons": [ "england_flag", "liverpool_liver", "liverpool_merseyrail" ],
+    "explanation": "benefit things shore",
+    "credit": "CC BY-NC 4.0, exc icons made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#e31f2620",
+    "tags": [
+        "cities",
+        "europe",
+        "united_kingdom",
+        "E2C"
+    ]
+}

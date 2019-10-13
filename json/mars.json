@@ -1,0 +1,15 @@
+{
+    "titleEn": "Mars",
+    "titleZh": "火星",
+    "jyutping": "fo2 sing1",
+    "pinyin": "huo3 xing1",
+    "icons": [ "mars" ],
+    "explanation": "fire star",
+    "credit": "CC BY-NC 4.0, exc icons made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#bf7e4920",
+    "tags": [
+        "space",
+        "planets",
+        "meaning"
+    ]
+}

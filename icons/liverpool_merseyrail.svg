@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="480"
+   height="480"
+   viewBox="0 0 127 127"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="liverpool_merseyrail.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="139.20445"
+     inkscape:cy="299.24439"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-169.99998)">
+    <rect
+       style="fill:#fef100;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.09700537;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect841"
+       width="102.85452"
+       height="101.90299"
+       x="12.072739"
+       y="182.54848" />
+    <path
+       style="fill:#bcbbbb;fill-opacity:1;stroke:#000000;stroke-width:3.70934081;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 60.801479,269.00414 c -5.370657,-0.62259 -9.319741,-1.73895 -13.336927,-3.77023 -11.861635,-5.99774 -19.583478,-18.49386 -19.583478,-31.6916 0,-20.40663 16.86134,-36.55365 37.22893,-35.65178 24.557774,1.08739 40.573836,26.02645 31.410639,48.91041 -4.805107,12.0002 -16.208023,20.62681 -29.176623,22.0729 -2.868591,0.31986 -4.608426,0.3545 -6.542541,0.1303 z m -12.314748,-16.7305 c 0.197359,-0.12557 1.403936,-2.80112 2.681288,-5.94567 2.151869,-5.2974 2.956081,-6.61095 3.367787,-5.50068 0.08191,0.22085 1.022606,2.87395 2.090456,5.89573 l 1.941551,5.4942 4.960337,-0.0847 4.960338,-0.0847 2.042662,-5.69715 c 1.123464,-3.13344 2.189789,-5.74619 2.369613,-5.80614 0.532009,-0.17733 0.839571,0.42591 3.028085,5.93928 1.147254,2.8902 2.229093,5.42878 2.404084,5.6413 0.372938,0.45289 12.149642,0.56711 12.425664,0.1205 0.129032,-0.20878 -8.375975,-25.06955 -12.678215,-37.05936 l -0.804148,-2.24106 h -4.263348 -4.263346 l -2.241079,5.6413 c -2.150676,5.41372 -2.840246,6.75639 -3.256295,6.34032 -0.105317,-0.10522 -1.262451,-2.80948 -2.571413,-6.00928 l -2.379931,-5.81779 h -4.313683 -4.313682 l -6.732703,19.30358 c -3.702987,10.61695 -6.663238,19.4846 -6.578327,19.70586 0.119271,0.31081 1.474706,0.40124 5.959927,0.39759 3.193051,-0.002 5.967019,-0.1075 6.164378,-0.23306 z"
+       id="path839"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccssscccscscccccsccscccsascccscccc" />
+  </g>
+</svg>

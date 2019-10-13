@@ -1,0 +1,16 @@
+{
+    "titleEn": "tasty",
+    "titleZh": "好吃",
+    "icons": [
+        "tasty_emoji"
+    ],
+    "jyutping": "好食 hou2 sik6",
+    "pinyin": "hao3 chi1",
+    "explanation": "good eat",
+    "credit": "CC BY-NC 4.0, exc icon made by OpenMoji licensed under CC BY-SA 4.0",
+    "backgroundHex": "#f1d60020",
+    "tags": [
+        "phrases",
+        "meaning"
+    ]
+}
