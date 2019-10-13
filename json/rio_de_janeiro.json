@@ -1,0 +1,19 @@
+{
+    "titleEn": "Rio de Janeiro",
+    "titleEnAlts": [
+        "Rio"
+    ],
+    "titleZh": "里約熱內盧",
+    "icons": [ "rio_de_janeiro_metro", "rio_de_janeiro_christ", "rio_de_janeiro_mountains" ],
+    "jyutping": "lei5 joek3 jit6 noi6 lou4",
+    "pinyin": "li3 yue1 re4 nei4 lu2",
+    "explanation": "mile promise hot inside",
+    "credit": "CC BY-NC 4.0, exc icon 1 by Freepik and and icon 2 by Zlatko Najdenovski from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#25924520",
+    "tags": [
+        "cities",
+        "americas",
+        "brazil",
+        "E2C"
+    ]
+}

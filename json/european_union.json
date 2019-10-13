@@ -1,0 +1,21 @@
+{
+    "titleEn": "European Union",
+    "titleEnAlts": [
+        "EU"
+    ],
+    "titleZh": "歐盟",
+    "icons": [
+        "european_union_flag"
+    ],
+    "pinyin": "ou1 meng2",
+    "jyutping": "au1 mang4",
+    "explanation": "europe alliance",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#5290ca20",
+    "tags": [
+        "countries",
+        "europe",
+        "E2C",
+        "meaning"
+    ]
+}

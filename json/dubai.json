@@ -1,0 +1,20 @@
+{
+    "titleEn": "Dubai",
+    "titleZh": "杜拜",
+    "icons": [
+        "dubai_flag",
+        "dubai_burj",
+        "dubai_palm_islands"
+    ],
+    "jyutping": "dou6 baai3",
+    "pinyin": "du4 bai4",
+    "explanation": "stop bowing",
+    "credit": "CC BY-NC 4.0, exc icon 1 made by Freepik, and icon 3 made by Eucalyp from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#d8bf8620",
+    "tags": [
+        "cities",
+        "asia",
+        "UAE",
+        "E2C"
+    ]
+}

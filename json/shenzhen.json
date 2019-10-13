@@ -1,0 +1,16 @@
+{
+    "time": "2019-06-06",
+    "titleEn": "Shenzhen",
+    "titleZh": "深圳",
+    "icons": [ "shenzhen_metro", "shenzhen_skyline", "china_flag" ],
+    "jyutping": "sam1 zan3",
+    "pinyin": "shen1 zhen4",
+    "explanation": "deep furrow",
+    "credit": "CC BY-NC 4.0, exc icons 3 made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#97004120",
+    "tags": [
+        "cities",
+        "asia",
+        "C2E"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "titleEn": "Kuala Lumpur",
+    "titleEnAlts": [
+        "KL"
+    ],
+    "titleZh": "吉隆坡",
+    "icons": [ "kualalumpur_flag", "kualalumpur_petronas", "kualalumpur_petaling" ],
+    "jyutping": "gat1 lung4 bo1",
+    "pinyin": "ji2 long2 po1",
+    "explanation": "lucky prosperous slope",
+    "credit": "CC BY-NC 4.0, exc icon 2 made by Wichai.wi and 3 made by Eucalyp from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#9c161720",
+    "tags": [
+        "countries",
+        "cities",
+        "asia",
+        "malaysia",
+        "E2C"
+    ]
+}

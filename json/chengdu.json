@@ -1,0 +1,17 @@
+{
+    "time": "2019-06-18",
+    "titleEn": "Chengdu",
+    "titleZh": "成都",
+    "icons": [ "chengdu_panda", "chengdu_sunbird", "chengdu_metro" ],
+    "jyutping": "sing4 dou1",
+    "pinyin": "cheng2 du1",
+    "explanation": "become capital",
+    "credit": "CC BY-NC 4.0, exc icon 1 made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#ff6a4b50",
+    "tags": [
+        "cities",
+        "asia",
+        "china",
+        "C2E"
+    ]
+}

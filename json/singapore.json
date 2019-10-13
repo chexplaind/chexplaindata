@@ -1,0 +1,23 @@
+{
+    "titleEn": "Singapore",
+    "titleEnAlts": [
+        "Singapura",
+        "SG"
+    ],
+    "titleZh": "新加坡",
+    "titleZhAlts": [
+        "星加坡"
+    ],
+    "icons": [ "singapore_flag", "singapore_merlion", "singapore_marinabaysands" ],
+    "jyutping": "san1 gaa3 bo1",
+    "pinyin": "xin1 jia1 po1",
+    "explanation": "new plus slope",
+    "credit": "CC BY-NC 4.0, exc icon 1 made by Freepik, 2 made by photo3idea.studio and 3 made by Eucalyp from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#eb263720",
+    "tags": [
+        "countries",
+        "cities",
+        "asia",
+        "E2C"
+    ]
+}

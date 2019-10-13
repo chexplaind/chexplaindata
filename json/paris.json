@@ -1,0 +1,15 @@
+{
+    "titleEn": "Paris",
+    "titleZh": "巴黎",
+    "icons": [ "paris_eiffel", "paris_arc", "paris_louvre" ],
+    "jyutping": "baa1 lai4",
+    "pinyin": "ba1 li2",
+    "explanation": "desire darkness",
+    "credit": "CC BY-NC 4.0, exc icon 1 by smalllikeart, icon 2 and 3 by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#ffed2a20",
+    "tags": [
+        "cities",
+        "europe",
+        "E2C"
+    ]
+}

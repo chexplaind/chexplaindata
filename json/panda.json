@@ -1,0 +1,16 @@
+{
+    "titleEn": "panda",
+    "titleZh": "熊貓",
+    "icons": [
+        "chengdu_panda"
+    ],
+    "jyutping": "hung4 maau1",
+    "pinyin": "xiong2 mao1",
+    "explanation": "bear cat",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#00000020",
+    "tags": [
+        "animal",
+        "meaning"
+    ]
+}

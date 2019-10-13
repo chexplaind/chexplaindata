@@ -1,0 +1,15 @@
+{
+    "titleEn": "Karachi",
+    "titleZh": "卡拉奇",
+    "pinyin": "ka3 la1 qi2",
+    "jyutping": "kaa1 laai1 kei4",
+    "icons": [ "karachi_mausoleum", "pakistan_flag", "karachi_three_swords" ],
+    "explanation": "card pull strange",
+    "credit": "CC BY-NC 4.0, exc icon 2 made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#003f1620",
+    "tags": [
+        "cities",
+        "asia",
+        "E2C"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "time": "2019-06-05",
+    "titleEn": "Oslo",
+    "titleZh": "奧斯陸",
+    "icons": [ "oslo_cathedral", "norway_flag", "oslo_opera" ],
+    "jyutping": "ou3 si1 luk6",
+    "pinyin": "ao4 si1 lu4",
+    "explanation": "profound mainland",
+    "credit": "CC BY-NC 4.0, exc icons 1 and 2 made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#1c3d9920",
+    "tags": [
+        "cities",
+        "europe",
+        "E2C"
+    ]
+}

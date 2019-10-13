@@ -1,0 +1,22 @@
+{
+    "titleEn": "Switzerland",
+    "titleEnAlts": [
+        "Schweiz",
+        "Suisse",
+        "Svizzera",
+        "Svizra"
+    ],
+    "titleZh": "瑞士",
+    "icons": [ "switzerland_flag" ],
+    "jyutping": "seoi6 si6",
+    "pinyin": "rui4 shi4",
+    "explanation": "auspicious soldier",
+    "credit": "CC BY-NC 4.0",
+    "backgroundHex": "#eeebd940",
+    "tags": [
+        "countries",
+        "eruope",
+        "Switzerland",
+        "E2C"
+    ]
+}

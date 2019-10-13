@@ -1,0 +1,17 @@
+{
+    "titleEn": "computer",
+    "titleZh": "電腦",
+    "icons": [
+        "computer"
+    ],
+    "jyutping": "din6 nou5",
+    "pinyin": "dian4 nao3",
+    "explanation": "electric brain",
+    "credit": "CC BY-NC 4.0, exc icon made by itim2101 from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#00FF4130",
+    "tags": [
+        "object",
+        "meaning",
+        "technology"
+    ]
+}

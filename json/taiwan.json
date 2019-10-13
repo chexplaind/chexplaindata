@@ -1,0 +1,20 @@
+{
+    "titleEn": "Taiwan",
+    "titleZh": "臺灣",
+    "icons": [
+        "taiwan_flag"
+    ],
+    "jyutping": "toi4 waan1",
+    "pinyin": "tai2 wan1",
+    "explanation": "platform cove",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#00009615",
+    "tags": [
+        "place",
+        "countries",
+        "asia",
+        "china",
+        "taiwan",
+        "C2E"
+    ]
+}

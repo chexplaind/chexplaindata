@@ -1,0 +1,22 @@
+{
+    "time": "2019-06-12",
+    "titleEn": "United Kingdom",
+    "titleEnAlts": [
+        "UK"
+    ],
+    "titleZh": "英國",
+    "icons": [
+        "united_kingdom_flag"
+    ],
+    "jyutping": "jing1 gwok3",
+    "pinyin": "ying1 guo2",
+    "explanation": "brave country",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#001f7e30",
+    "tags": [
+        "countries",
+        "europe",
+        "united_kingdom",
+        "E2C"
+    ]
+}

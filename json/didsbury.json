@@ -1,0 +1,19 @@
+{
+    "titleEn": "Didsbury",
+    "titleZh": "的士伯里",
+    "icons": [
+        "didsbury"
+    ],
+    "jyutping": "dik1 si6 baak3 lei5",
+    "pinyin": "di2 shi4 ba4 li3",
+    "explanation": "taxi uncle mile",
+    "credit": "CC BY-NC 4.0",
+    "backgroundHex": "#ffdc4120",
+    "tags": [
+        "place",
+        "europe",
+        "manchester",
+        "united_kingdom",
+        "E2C"
+    ]
+}

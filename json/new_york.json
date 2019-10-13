@@ -1,0 +1,16 @@
+{
+    "titleEn": "New York",
+    "titleZh": "紐約",
+    "pinyin": "niu3 yue1",
+    "jyutping": "nau2 joek3",
+    "icons": [ "new_york_empire_state", "new_york_statue_liberty", "new_york_chrysler" ],
+    "explanation": "button agreement",
+    "credit": "CC BY-NC 4.0, exc icons 1, 2, 3 made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#00358520",
+    "tags": [
+        "cities",
+        "americas",
+        "united_states",
+        "E2C"
+    ]
+}

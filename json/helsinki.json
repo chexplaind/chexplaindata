@@ -1,0 +1,17 @@
+{
+    "time": "2019-06-04",
+    "titleEn": "Helsinki",
+    "titleZh": "赫爾辛基",
+    "icons": [ "helsinki_senatesquare", "finland_flag", "helsinki_metro" ],
+    "jyutping": "hak1 ji5 san1 gei1",
+    "pinyin": "he4 er3 xin1 ji1",
+    "explanation": "glorious hardship base",
+    "credit": "CC BY-NC 4.0, exc icons 1 and 2 made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#013c8220",
+    "tags": [
+        "cities",
+        "europe",
+        "finland",
+        "E2C"
+    ]
+}

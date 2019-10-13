@@ -1,0 +1,19 @@
+{
+    "titleEn": "Macau",
+    "titleEnAlts": [
+        "Macao"
+    ],
+    "titleZh": "澳門",
+    "icons": [ "macau_flag", "macau_casino", "macau_saint_paul" ],
+    "jyutping": "ou3 mun4",
+    "pinyin": "ao4 men2",
+    "explanation": "bay gate",
+    "credit": "CC BY-NC 4.0, exc icon 1 made by Freepik and 3 made by photo3idea.studio from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#009aff30",
+    "tags": [
+        "cities",
+        "asia",
+        "china",
+        "Meaning"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "titleEn": "crowd control barrier",
+    "titleZh": "鐵馬",
+    "icons": [
+        "crowd_control_barrier"
+    ],
+    "jyutping": "tit3 maa5",
+    "pinyin": "tie3 ma3",
+    "explanation": "iron horse",
+    "credit": "CC BY-NC 4.0",
+    "backgroundHex": "#fcce1630",
+    "tags": [
+        "object",
+        "meaning"
+    ]
+}

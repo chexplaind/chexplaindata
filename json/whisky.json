@@ -1,0 +1,16 @@
+{
+    "titleEn": "whisky",
+    "titleZh": "威士忌",
+    "icons": [
+        "whisky"
+    ],
+    "jyutping": "wai1 si6 gei6",
+    "pinyin": "wei1 shi4 ji4",
+    "explanation": "powerful soldier abstains",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#6f030230",
+    "tags": [
+        "drink",
+        "E2C"
+    ]
+}

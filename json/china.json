@@ -1,0 +1,17 @@
+{
+    "time": "2019-06-15",
+    "titleEn": "China",
+    "titleZh": "中國",
+    "icons": [ "china_flag" ],
+    "jyutping": "zung1 gwok3",
+    "pinyin": "zhong1 guo2",
+    "explanation": "central country",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#dc260e30",
+    "tags": [
+        "countries",
+        "asia",
+        "china",
+        "C2E"
+    ]
+}

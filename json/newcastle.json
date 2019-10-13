@@ -1,0 +1,15 @@
+{
+    "titleEn": "Newcastle",
+    "titleZh": "紐卡素",
+    "pinyin": "niu3 ka3 su4",
+    "jyutping": "nau2 kaa1 sou3",
+    "icons": [ "england_flag", "newcastle_bridges", "newcastle_metro" ],
+    "explanation": "button card vegetarian",
+    "credit": "CC BY-NC 4.0, exc icon 1 made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#03bcf630",
+    "tags": [
+        "cities",
+        "europe",
+        "E2C"
+    ]
+}

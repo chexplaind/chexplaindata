@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   width="800px"
+   height="800px"
+   viewBox="0 0 800 800"
+   enable-background="new 0 0 800 800"
+   xml:space="preserve"
+   sodipodi:docname="poland_flag.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata17"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs15" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="986"
+   id="namedview13"
+   showgrid="false"
+   inkscape:zoom="1.668772"
+   inkscape:cx="337.44166"
+   inkscape:cy="505.31634"
+   inkscape:window-x="-11"
+   inkscape:window-y="-11"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g10" />
+<g
+   id="g10">
+	<path
+   fill="#ED1F34"
+   d="M24.807,646.161V411.903h91.322c6.563,0,11.903-5.34,11.903-11.903v-1h27.807v1   c0,6.563,5.34,11.903,11.903,11.903h607.451v234.258H24.807z"
+   id="path2" />
+	<path
+   fill="#ED1F34"
+   d="M167.742,412.903c-7.126,0-12.903-5.777-12.903-12.903h-25.807c0,7.126-5.777,12.903-12.903,12.903H25.807   v232.258h748.387V412.903H167.742z"
+   id="path4" />
+	<path
+   fill="#FFFFFF"
+   d="M167.742,387.097h606.451V154.839H25.807v232.258h90.322c7.126,0,12.903,5.777,12.903,12.903h25.807   C154.839,392.874,160.616,387.097,167.742,387.097z"
+   id="path6" />
+	<path
+   d="M 787.097,129.032 H 12.903 C 5.777,129.032 0,134.81 0,141.936 v 516.129 c 0,7.126 5.777,12.903 12.903,12.903 h 774.193 c 7.126,0 12.903,-5.777 12.903,-12.903 V 141.936 C 800,134.81 794.223,129.032 787.097,129.032 Z M 25.807,645.161 V 412.903 h 142.322 c 7.126,0 -9.097,-5.777 -9.097,-12.903 0,-7.126 16.223,-12.903 9.097,-12.903 H 25.807 V 154.839 H 774.194 V 387.097 H 167.742 c -7.126,0 -12.903,5.777 -12.903,12.903 0,7.126 5.777,12.903 12.903,12.903 H 774.193 V 645.161 H 25.807 Z"
+   id="path8"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ssssssscsccsssccccssscccc" />
+</g>
+</svg>

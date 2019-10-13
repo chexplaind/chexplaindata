@@ -1,0 +1,21 @@
+{
+    "time": "2019-06-01",
+    "titleEn": "Hong Kong",
+    "titleEnAlts": [
+        "HK"
+    ],
+    "titleZh": "香港",
+    "icons": [ "hongkong_buddha", "hongkong_flag", "hongkong_skyline" ],
+    "jyutping": "hoeng1 gong2",
+    "pinyin": "xiang1 gang3",
+    "explanation": "fragrant harbour",
+    "credit": "CC BY-NC 4.0, exc icons made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#dc260e20",
+    "tags": [
+        "cities",
+        "asia",
+        "hong_kong",
+        "china",
+        "C2E"
+    ]
+}

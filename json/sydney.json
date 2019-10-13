@@ -1,0 +1,16 @@
+{
+    "titleEn": "Sydney",
+    "titleZh": "悉尼",
+    "icons": [ "sydney_opera", "sydney_tower", "australia_flag" ],
+    "jyutping": "sik1 nei4",
+    "pinyin": "xi1 ni2",
+    "explanation": "comprehend nuns",
+    "credit": "CC BY-NC 4.0, exc icons made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#103b9b10",
+    "tags": [
+        "cities",
+        "australia",
+        "oceania",
+        "E2C"
+    ]
+}

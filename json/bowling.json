@@ -1,0 +1,17 @@
+{
+    "titleEn": "bowling",
+    "titleZh": "保齡球",
+    "icons": [
+        "bowling"
+    ],
+    "jyutping": "bou2 ling4 kau4",
+    "pinyin": "bao3 ling2 qiu2",
+    "explanation": "protect age ball",
+    "credit": "CC BY-NC 4.0, exc icon made by Flaticon from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#C19A6B40",
+    "tags": [
+        "activity",
+        "sport",
+        "E2C"
+    ]
+}

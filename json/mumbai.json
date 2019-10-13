@@ -1,0 +1,18 @@
+{
+    "titleEn": "Mumbai",
+    "titleEnAlts": [
+        "Bombay"
+    ],
+    "titleZh": "孟買",
+    "icons": [ "india_flag", "mumbai_gate", "mumbai_sealink" ],
+    "jyutping": "maang6 maai5",
+    "pinyin": "meng4 mai3",
+    "explanation": "fierce buying",
+    "credit": "CC BY-NC 4.0, exc icon 2 made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#f3a62f30",
+    "tags": [
+        "cities",
+        "europe",
+        "E2C"
+    ]
+}

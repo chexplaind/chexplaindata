@@ -1,0 +1,19 @@
+{
+    "titleEn": "Bangkok",
+    "titleEnAlts": [
+        "Krung Thep"
+    ],
+    "titleZh": "曼谷",
+    "icons": [ "bangkok_wat_arun", "bangkok_palace", "bangkok_democracy" ],
+    "jyutping": "maan6 guk1",
+    "pinyin": "man4 gu3",
+    "explanation": "vast valleys",
+    "credit": "CC BY-NC 4.0, exc icon 1 made by Freepik, 2 made by Wichai.wi and 3 made by smalllikeart from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#ffe00040",
+    "tags": [
+        "cities",
+        "thailand",
+        "asia",
+        "E2C"
+    ]
+}

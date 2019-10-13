@@ -1,0 +1,17 @@
+{
+    "titleEn": "Xian",
+    "titleEnAlts": ["Xi'an"],
+    "titleZh": "西安",
+    "icons": [ "xian_metro", "xian_pagoda", "xian_terracotta" ],
+    "jyutping": "sai1 ngon1",
+    "pinyin": "xi1 an1",
+    "explanation": "western peace",
+    "credit": "CC BY-NC 4.0, exc icons 3 made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#226ebc30",
+    "tags": [
+        "cities",
+        "asia",
+        "china",
+        "C2E"
+    ]
+}

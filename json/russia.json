@@ -1,0 +1,20 @@
+{
+    "titleEn": "Russia",
+    "titleEnAlts": [
+        "Rossiya",
+        "Russian Federation"
+    ],
+    "titleZh": "俄羅斯",
+    "icons": [ "russia_flag" ],
+    "jyutping": "ngo4 lo4 si1",
+    "pinyin": "e2 luo2 si1",
+    "explanation": "suddenly capture this",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#CD362A30",
+    "tags": [
+        "countries",
+        "asia",
+        "europe",
+        "E2C"
+    ]
+}

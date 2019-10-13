@@ -1,0 +1,16 @@
+{
+    "titleEn": "Philadelphia",
+    "titleZh": "費城",
+    "titleEnAlt": ["Philly"],
+    "icons": [ "america_flag", "philadelphia_liberty_place", "philadelphia_flag" ],
+    "jyutping": "fai3 sing4",
+    "pinyin": "fei4 cheng2",
+    "explanation": "expenses city",
+    "credit": "CC BY-NC 4.0, exc icon 1 by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#00258730",
+    "tags": [
+        "cities",
+        "americas",
+        "E2C"
+    ]
+}

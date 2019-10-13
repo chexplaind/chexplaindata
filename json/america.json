@@ -1,0 +1,23 @@
+{
+    "titleEn": "United States",
+    "titleEnAlts": [
+        "USA",
+        "US",
+        "America"
+    ],
+    "titleZh": "美國",
+    "icons": [
+        "america_flag"
+    ],
+    "jyutping": "mei5 gwok3",
+    "pinyin": "mei3 guo2",
+    "explanation": "beautiful country",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#00276830",
+    "tags": [
+        "countries",
+        "americas",
+        "united_states",
+        "E2C"
+    ]
+}

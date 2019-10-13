@@ -1,0 +1,16 @@
+{
+    "titleEn": "mango",
+    "titleZh": "芒果",
+    "icons": [
+        "mango"
+    ],
+    "jyutping": "mong1 gwo2",
+    "pinyin": "mang2 guo3",
+    "explanation": "shiny fruit",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#FFC80050",
+    "tags": [
+        "food",
+        "E2C"
+    ]
+}

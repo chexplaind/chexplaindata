@@ -1,0 +1,21 @@
+{
+    "titleEn": "Westminster",
+    "titleZh": "西敏市",
+    "icons": [
+        "westminster_parliament", 
+        "westminster_tube", 
+        "westminster_abbey"
+    ],
+    "jyutping": "sai1 man5 si5",
+    "pinyin": "xi1 min3 shi4",
+    "explanation": "western sensitive town",
+    "credit": "CC BY-NC 4.0, exc icon 1 by Flaticon and icon 3 by Smashicons from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#1d70b830",
+    "tags": [
+        "place",
+        "europe",
+        "london",
+        "united_kingdom",
+        "E2C"
+    ]
+}
