@@ -1,0 +1,22 @@
+{
+    "titleEn": "English Name",
+    "titleEnAlts": [
+        "Alternative English Name",
+        "Alternative name in a Roman language"
+    ],
+    "titleZh": "中文名",
+    "titleZhAlts": [
+        "易名一",
+        "易名二"
+    ],
+    "explanation": "middle literature name",
+    "icons": [
+        "shortestEnglishName_depiction"
+    ],
+    "pinyin": "pin1 yin1",
+    "jyutping": "ping3 jam1",
+    "tailo": "phing1 im1",
+    "credit": "CC BY-NC 4.0, exc icon made by * from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#00000020",
+    "tags": []
+}
