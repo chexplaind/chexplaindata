@@ -35,7 +35,7 @@ the Taiwanese Ministry of Education scheme is used as the standard.
 
 11. `backgroundHex` **Background Colour Hex Code** *(string)*: always leading with "#" and set an alpha (transparency) level between 10 - 40.
 
-12. `tags` **Category Tags** *(string array)*: common tags include: `countries`, `cities`, `activity`, `food`, `animal`. You must include one of these tags: `E2C` (English-to-Chinese translation), `C2E` (Chinese-to-English translation), or `meaning` (Developed by meaning in Chinese).
+12. `tags` **Category Tags** *(string array)*: common tags include: `countries`, `cities`, `activity`, `food`, `animal`. You must include one of these tags: `E2C` (English-to-Chinese translation), `C2E` (Chinese-to-English translation), or `meaning` (Developed from meaning in Chinese).
 
 See [the template file here](template.json).
 
@@ -43,4 +43,9 @@ Please raise an issue if you have any suggestions.
 
 ## Icons
 
-TBC
+These must be vector graphics in `.svg` format.
+The maximum resolution should be 512x512.
+
+**Naming Convention**: {shortest_english_name}_{depiction_of_icon}.svg
+
+The icon style must be mostly flat, bordered in black and filled in technicolour. The artistic style of the author [Freepik](https://www.flaticon.com/authors/freepik) is regarded as a good standard.
