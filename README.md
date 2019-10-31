@@ -1,10 +1,12 @@
-# The Literal Chinese Dictionary Data Warehouse
+# The Literal Chinese Dictionary Data Repository
 
 Welcome! The data that makes up the dictionary is split into two main folders:
 
 * `./json`: main textual information and metadata for each dictionary entry
 
 * `./icons`: the vector images which are included in entries
+
+Please fork and raise a pull request against the data with new entries or fixes.
 
 Contributing standard guidelines are below:
 
@@ -46,6 +48,10 @@ Please raise an issue if you have any suggestions.
 These must be vector graphics in `.svg` format.
 The maximum resolution should be 512x512.
 
-**Naming Convention**: {shortest_english_name}_{depiction_of_icon}.svg
+**Naming Convention**: 
+
+* {shortest_english_title}.svg , or
+
+* {shortest_english_title}_{depiction_of_icon}.svg
 
 The icon style must be mostly flat, bordered in black and filled in technicolour. The artistic style of the author [Freepik](https://www.flaticon.com/authors/freepik) is regarded as a good standard.

@@ -1,6 +1,8 @@
 {
-    "time": "2019-06-10",
     "titleEn": "India",
+    "titleEnAlts": [
+        "Bharat"
+    ],
     "titleZh": "印度",
     "icons": [ "india_flag" ],
     "jyutping": "jan3 dou6",

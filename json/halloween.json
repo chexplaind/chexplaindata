@@ -1,0 +1,21 @@
+{
+    "titleEn": "Halloween",
+    "titleEnAlts": [
+        "All Hallows' Eve",
+        "All Saints' Eve"
+    ],
+    "titleZh": "萬聖節",
+    "icons": [
+        "halloween_cobweb", "halloween_devil", "halloween_pumpkin"
+    ],
+    "jyutping": "maan6 sing3 zit3",
+    "pinyin": "wan4 sheng4 jie2",
+    "tailo": "ban7 sing3 tseh4",
+    "explanation": "ten thousand saints festival",
+    "credit": "CC BY-NC 4.0, exc icons from catkuro from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#ff751830",
+    "tags": [
+        "festivals",
+        "meaning"
+    ]
+}
