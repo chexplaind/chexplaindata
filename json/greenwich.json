@@ -1,0 +1,19 @@
+{
+    "titleEn": "Greenwich",
+    "titleZh": "格林威治",
+    "icons": [
+        "greenwich_tube"
+    ],
+    "jyutping": "gaak3 lam4 wai1 zi6",
+    "pinyin": "ge2 lin2 wei1 zhi4",
+    "explanation": "pattern forest powerful govern",
+    "credit": "CC BY-NC 4.0",
+    "backgroundHex": "#3399ff25",
+    "tags": [
+        "place",
+        "europe",
+        "london",
+        "united_kingdom",
+        "E2C"
+    ]
+}
