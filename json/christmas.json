@@ -1,0 +1,22 @@
+{
+    "titleEn": "Christmas",
+    "titleEnAlts": [
+        "Noel",
+        "Nativity",
+        "Xmas"
+    ],
+    "titleZh": "聖誕節",
+    "icons": [
+        "christmas_santa", "christmas_tree", "christmas_snowman"
+    ],
+    "jyutping": "sing3 daan3 zit3",
+    "pinyin": "sheng4 dan4 jie2",
+    "tailo": "siann3 tan3 tsat",
+    "explanation": "holy birth festival",
+    "credit": "CC BY-NC 4.0, exc icons from Pixelperfect, Smashicons, and Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#ff751830",
+    "tags": [
+        "festivals",
+        "meaning"
+    ]
+}
