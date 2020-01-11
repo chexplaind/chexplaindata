@@ -1,0 +1,20 @@
+{
+    "titleEn": "The Netherlands",
+    "titleEnAlts": [
+        "Holland"
+    ],
+    "titleZh": "荷蘭",
+    "icons": [ "netherlands_flag" ],
+    "jyutping": "ho4 laan1",
+    "pinyin": "he2 lan2",
+    "tailo": "ho5 lan5",
+    "explanation": "lotus orchid",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#fa590060",
+    "tags": [
+        "countries",
+        "europe",
+        "netherlands",
+        "E2C"
+    ]
+}
