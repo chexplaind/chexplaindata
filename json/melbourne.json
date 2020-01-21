@@ -1,0 +1,16 @@
+{
+    "titleEn": "Melbourne",
+    "titleZh": "墨爾本",
+    "icons": [ "melbourne_remembrance", "australia_flag", "melbourne_monument" ],
+    "jyutping": "mak6 ji5 bun2",
+    "pinyin": "mo4 er3 ben3",
+    "explanation": "ink ye roots",
+    "credit": "CC BY-NC 4.0, exc icons made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#fcb83330",
+    "tags": [
+        "cities",
+        "australia",
+        "oceania",
+        "E2C"
+    ]
+}

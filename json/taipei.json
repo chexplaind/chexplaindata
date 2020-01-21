@@ -1,0 +1,18 @@
+{
+    "titleEn": "Taipei",
+    "titleZh": "臺北",
+    "icons": [ "taiwan_flag", "taipei_101", "taipei_metro" ],
+    "jyutping": "toi4 bak1",
+    "pinyin": "tai2 bei3",
+    "tailo": "tâi pak",
+    "explanation": "platform north",
+    "credit": "CC BY-NC 4.0, exc icons 2 made by surang and 1, 3 made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#007f0030",
+    "tags": [
+        "cities",
+        "asia",
+        "taiwan",
+        "china",
+        "C2E"
+    ]
+}
