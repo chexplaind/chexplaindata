@@ -1,5 +1,8 @@
 {
     "titleEn": "Brazil",
+    "titleEnAlts": [
+        "Brasil"
+    ],
     "titleZh": "巴西",
     "icons": [ "brazil_flag" ],
     "jyutping": "baa1 sai1",
