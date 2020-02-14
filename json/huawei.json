@@ -1,0 +1,17 @@
+{
+    "titleEn": "Huawei",
+    "titleZh": "華爲",
+    "icons": [
+        "huawei"
+    ],
+    "jyutping": "waa4 wai6",
+    "pinyin": "hua2 wei2",
+    "explanation": "China achieves",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#fd010030",
+    "tags": [
+        "technology",
+        "companies",
+        "C2E"
+    ]
+}

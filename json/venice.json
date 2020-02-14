@@ -1,0 +1,24 @@
+{
+    "titleEn": "Venice",
+    "titleEnAlts": [
+        "Venezia",
+        "Veneto"
+    ],
+    "titleZh": "威尼斯",
+    "icons": [
+        "venice_rialto_bridge", 
+        "venice_flag", 
+        "venice_gondola"
+    ],
+    "jyutping": "wai1 nei4 si1",
+    "pinyin": "wei1 ni2 si1",
+    "explanation": "power nun this",
+    "credit": "CC BY-NC 4.0, exc icon 1 and 3 by Freepiks from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#66023C44",
+    "tags": [
+        "cities",
+        "europe",
+        "italy",
+        "E2C"
+    ]
+}
