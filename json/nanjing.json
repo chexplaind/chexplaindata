@@ -1,0 +1,16 @@
+{
+    "titleEn": "Nanjing",
+    "titleZh": "南京",
+    "icons": [ "nanjing_metro", "nanjing_porcelain_tower", "nanjing_mausoleum" ],
+    "jyutping": "naam4 ging1",
+    "pinyin": "nan2 jing1",
+    "explanation": "southern capital",
+    "credit": "CC BY-NC 4.0, exc icon 1 made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#00009630",
+    "tags": [
+        "cities",
+        "china",
+        "asia",
+        "C2E"
+    ]
+}

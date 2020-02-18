@@ -1,0 +1,17 @@
+{
+    "titleEn": "Scotland",
+    "titleZh": "蘇格蘭",
+    "icons": [ "scotland_flag" ],
+    "jyutping": "sou1 gaak3 laan4",
+    "pinyin": "su1 ge2 lan2",
+    "explanation": "revive pattern orchid",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#b6001744",
+    "tags": [
+        "countries",
+        "place",
+        "europe",
+        "united_kingdom",
+        "E2C"
+    ]
+}

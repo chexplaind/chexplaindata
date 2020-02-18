@@ -1,0 +1,17 @@
+{
+    "titleEn": "Ericsson",
+    "titleZh": "愛立信",
+    "icons": [
+        "ericsson"
+    ],
+    "jyutping": "ngoi3 laap6 seon3",
+    "pinyin": "ai4 li4 xin4",
+    "explanation": "love builds trust",
+    "credit": "CC BY-NC 4.0",
+    "backgroundHex": "#52bbe550",
+    "tags": [
+        "technology",
+        "companies",
+        "E2C"
+    ]
+}
