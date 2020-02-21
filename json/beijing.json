@@ -1,5 +1,8 @@
 {
     "titleEn": "Beijing",
+    "titleEnAlts": [
+        "Peking"
+    ],
     "titleZh": "北京",
     "icons": [ "beijing_palace", "beijing_greatwall", "beijing_temple" ],
     "jyutping": "bak1 ging1",

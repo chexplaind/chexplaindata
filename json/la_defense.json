@@ -1,0 +1,20 @@
+{
+    "titleEn": "La Défense",
+    "titleEnAlts": [
+        "La Defense"
+    ],
+    "titleZh": "拉德芳斯",
+    "icons": [ "france_flag", "paris_grande_arche", "paris_metro" ],
+    "jyutping": "laai1 dak1 fong1 si1",
+    "pinyin": "la1 de2 fang1 si1",
+    "explanation": "pull virtue fragrant thus",
+    "credit": "CC BY-NC 4.0, exc icon 1 made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#16ff2622",
+    "tags": [
+        "place",
+        "europe",
+        "paris",
+        "france",
+        "E2C"
+    ]
+}

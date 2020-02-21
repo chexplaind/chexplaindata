@@ -1,5 +1,8 @@
 {
     "titleEn": "Nanjing",
+    "titleEnAlts": [
+        "Nanking"
+    ],
     "titleZh": "南京",
     "icons": [ "nanjing_metro", "nanjing_porcelain_tower", "nanjing_mausoleum" ],
     "jyutping": "naam4 ging1",

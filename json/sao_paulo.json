@@ -1,0 +1,19 @@
+{
+    "titleEn": "São Paulo",
+    "titleEnAlts": [
+        "Sao Paulo"
+    ],
+    "titleZh": "聖保羅",
+    "icons": [ "brazil_flag", "sao_paulo_bridge", "sao_paulo_metro" ],
+    "jyutping": "sing3 bou2 lo4",
+    "pinyin": "sheng4 bao3 luo2",
+    "explanation": "saint protection net",
+    "credit": "CC BY-NC 4.0, exc icons by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#ad7c9555",
+    "tags": [
+        "cities",
+        "americas",
+        "brazil",
+        "E2C"
+    ]
+}
