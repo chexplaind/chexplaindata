@@ -1,0 +1,16 @@
+{
+    "titleEn": "Wuhan",
+    "titleZh": "武漢",
+    "icons": [ "wuhan_metro", "wuhan_bridge", "china_flag" ],
+    "jyutping": "mou5 hon3",
+    "pinyin": "wu3 han4",
+    "explanation": "martial Chinese",
+    "credit": "CC BY-NC 4.0, exc icons 3 made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#d6412255",
+    "tags": [
+        "cities",
+        "asia",
+        "china",
+        "C2E"
+    ]
+}

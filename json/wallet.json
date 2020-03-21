@@ -1,0 +1,16 @@
+{
+    "titleEn": "wallet",
+    "titleZh": "錢包",
+    "icons": [
+        "wallet"
+    ],
+    "jyutping": "cin4 baau1",
+    "pinyin": "qian2 bao1",
+    "explanation": "money wrap",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#906B5222",
+    "tags": [
+        "object",
+        "meaning"
+    ]
+}
