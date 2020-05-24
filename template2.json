@@ -1,0 +1,33 @@
+{
+    "entryName": "file_name",
+    "translation": [
+        {
+            "english": "English Name",
+            "latinAlts": [
+                "Alternative name in a Roman language"
+            ],
+            "chinese": "中文名",
+            "explanation": "middle literature name",
+            "pinyin": "pin1 yin1",
+            "jyutping": "ping3 jam1",
+            "tailo": "phing1 im1"
+        },
+        {
+            "english": "Alternative English Name",
+            "latinAlts": [
+                "Alternative name in a Roman language"
+            ],
+            "chinese": "易名",
+            "explanation": "another name",
+            "pinyin": "pin1 yin1",
+            "jyutping": "ping3 jam1",
+            "tailo": "phing1 im1"
+        }
+    ],
+    "icons": [
+        "fileName_shortDepiction"
+    ],
+    "credit": "CC BY-NC 4.0, exc icon made by * from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#00000020",
+    "tags": []
+}

@@ -1,0 +1,18 @@
+{
+    "titleEn": "Pokémon",
+    "titleEnAlts": [
+        "Pokemon"
+    ],
+    "titleZh": "寶可夢",
+    "icons": [ "pokemon_ball", "pokemon_egg", "pokemon_go" ],
+    "pinyin": "bǎo kě mèng",
+    "explanation": "treasure can dream",
+    "credit": "CC BY-NC 4.0, exc icon 1 by Roundicons, and icons 2, 3 by Nikita Golubev, from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#2ffdfd55",
+    "tags": [
+        "technology",
+        "gaming",
+        "activity",
+        "meaning"
+    ]
+}

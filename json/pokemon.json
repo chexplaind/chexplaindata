@@ -1,0 +1,19 @@
+{
+    "titleEn": "Pokémon",
+    "titleEnAlts": [
+        "Pokemon"
+    ],
+    "titleZh": "寵物小精靈",
+    "icons": [ "pokemon_ball", "pokemon_egg", "pokemon_go" ],
+    "jyutping": "cung2 mat6 siu2 zing1 ling4",
+    "pinyin": "chǒng wù xiǎo jīng líng",
+    "explanation": "pet small elves",
+    "credit": "CC BY-NC 4.0, exc icon 1 by Roundicons, and icons 2, 3 by Nikita Golubev, from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#2ffdfd55",
+    "tags": [
+        "technology",
+        "gaming",
+        "activity",
+        "meaning"
+    ]
+}

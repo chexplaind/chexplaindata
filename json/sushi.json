@@ -1,0 +1,17 @@
+{
+    "titleEn": "sushi",
+    "titleZh": "壽司",
+    "icons": [
+        "sushi"
+    ],
+    "jyutping": "sau6 si1",
+    "pinyin": "shòu sī",
+    "explanation": "long life officer",
+    "credit": "CC BY-NC 4.0, exc icon made by Nikita Golubev from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#32511622",
+    "tags": [
+        "food",
+        "Japanese",
+        "E2C"
+    ]
+}
