@@ -1,0 +1,17 @@
+{
+    "titleEn": "Tiananmen",
+    "titleZh": "天安門",
+    "icons": [ "tiananmen" ],
+    "jyutping": "tin1 ngon1 mun4",
+    "pinyin": "tiān ān mén",
+    "explanation": "heavenly peace gate",
+    "credit": "CC BY-NC 4.0, exc icons made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#65544433",
+    "tags": [
+        "place",
+        "beijing",
+        "china",
+        "asia",
+        "C2E"
+    ]
+}

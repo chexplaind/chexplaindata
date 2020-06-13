@@ -1,0 +1,17 @@
+{
+    "titleEn": "Tencent",
+    "titleZh": "騰訊",
+    "icons": [
+        "tencent_qq", "tencent", "tencent_wechat"
+    ],
+    "jyutping": "tang4 seon3",
+    "pinyin": "téng xùn",
+    "explanation": "galloping information",
+    "credit": "CC BY-NC 4.0, exc icons 1 and 3 made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#0051da22",
+    "tags": [
+        "technology",
+        "companies",
+        "C2E"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "titleEn": "ice cream",
+    "titleZh": "冰淇淋",
+    "icons": [
+        "ice_cream"
+    ],
+    "pinyin": "bīng qí lín",
+    "explanation": "ice qi- drip",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#f3e5ab99",
+    "tags": [
+        "food",
+        "dessert",
+        "E2C"
+    ]
+}
