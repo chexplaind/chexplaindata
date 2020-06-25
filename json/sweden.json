@@ -1,0 +1,19 @@
+{
+    "titleEn": "Sweden",
+    "titleEnAlts": [
+        "Sverige"
+    ],
+    "titleZh": "瑞典",
+    "icons": [ "sweden_flag" ],
+    "jyutping": "seoi6 din2",
+    "pinyin": "ruì diǎn",
+    "explanation": "auspicious scripture",
+    "credit": "CC BY-NC 4.0",
+    "backgroundHex": "#fecd0033",
+    "tags": [
+        "countries",
+        "europe",
+        "sweden",
+        "E2C"
+    ]
+}
