@@ -1,0 +1,16 @@
+{
+    "titleEn": "hamster",
+    "titleZh": "倉鼠",
+    "icons": [
+        "hamster"
+    ],
+    "jyutping": "cong1 syu2",
+    "pinyin": "cāng shǔ",
+    "explanation": "storage mouse",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#f8d5df55",
+    "tags": [
+        "animal",
+        "meaning"
+    ]
+}
