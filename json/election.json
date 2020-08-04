@@ -1,0 +1,17 @@
+{
+    "titleEn": "election",
+    "titleZh": "選舉",
+    "icons": [
+        "election_nomination", "election_vote", "election_chart"
+    ],
+    "jyutping": "syun2 geoi2",
+    "pinyin": "xuǎn jǔ",
+    "explanation": "select raise",
+    "credit": "CC BY-NC 4.0, exc icons made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#ffff0033",
+    "tags": [
+        "activity",
+        "politics",
+        "meaning"
+    ]
+}
