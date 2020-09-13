@@ -1,0 +1,20 @@
+{
+    "titleEn": "Finland",
+    "titleEnAlts": [
+        "Suomi"
+    ],
+    "titleZh": "芬蘭",
+    "icons": [ "finland_flag" ],
+    "jyutping": "fan1 laan4",
+    "pinyin": "fēn lán",
+    "explanation": "fragrant orchid",
+    "credit": "CC BY-NC 4.0, exc icon by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#d3d3d322",
+    "tags": [
+        "countries",
+        "europe",
+        "finland",
+        "nordic",
+        "E2C"
+    ]
+}

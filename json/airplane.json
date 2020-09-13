@@ -1,0 +1,21 @@
+{
+    "titleEn": "airplane",
+    "titleEnAlts": [
+        "plane",
+        "aeroplane",
+        "aircraft"
+    ],
+    "titleZh": "飛機",
+    "icons": [
+        "airplane"
+    ],
+    "jyutping": "fei1 gei1",
+    "pinyin": "fēi jī",
+    "explanation": "flying machine",
+    "credit": "CC BY-NC 4.0, exc icon made by surang from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#87ceeb33",
+    "tags": [
+        "transport",
+        "meaning"
+    ]
+}
