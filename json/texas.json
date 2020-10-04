@@ -1,0 +1,18 @@
+{
+    "titleEn": "Texas",
+    "titleZh": "德州",
+    "icons": [
+        "america_flag", "texas_flag"
+    ],
+    "jyutping": "dak1 zau1",
+    "pinyin": "dé zhōu",
+    "explanation": "virtue state",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#00276833",
+    "tags": [
+        "states",
+        "americas",
+        "united_states",
+        "E2C"
+    ]
+}

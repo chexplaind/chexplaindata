@@ -1,0 +1,21 @@
+{
+    "titleEn": "Republic of China",
+    "titleEnAlts": [
+        "ROC",
+        "Taiwan"
+    ],
+    "titleZh": "中華民國",
+    "icons": [ "taiwan_flag" ],
+    "jyutping": "zung1 waa4 man4 gwok3",
+    "pinyin": "zhōng huá mín guó",
+    "explanation": "central magnificent people's country",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#00009615",
+    "tags": [
+        "countries",
+        "asia",
+        "china",
+        "taiwan",
+        "C2E"
+    ]
+}

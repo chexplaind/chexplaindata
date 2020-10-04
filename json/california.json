@@ -1,0 +1,18 @@
+{
+    "titleEn": "California",
+    "titleZh": "加州",
+    "icons": [
+        "america_flag", "california_flag"
+    ],
+    "jyutping": "gaa1 zau1",
+    "pinyin": "jiā zhōu",
+    "explanation": "addition state",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#d1751233",
+    "tags": [
+        "states",
+        "americas",
+        "united_states",
+        "E2C"
+    ]
+}
