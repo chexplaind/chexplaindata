@@ -1,0 +1,18 @@
+{
+    "titleEn": "romance",
+    "titleZh": "浪漫",
+    "icons": [
+        "heart_arrow_emoji", "kiss_emoji"
+    ],
+    "jyutping": "long4 maan6",
+    "pinyin": "làng màn",
+    "tailo": "lōng bān",
+    "explanation": "waves spreading",
+    "credit": "CC BY-NC 4.0, exc icon made by OpenMoji licensed under CC BY-SA 4.0",
+    "backgroundHex": "#f1d60020",
+    "tags": [
+        "phrases",
+        "meaning",
+        "E2C"
+    ]
+}

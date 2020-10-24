@@ -29,16 +29,17 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="986"
+   inkscape:window-height="1017"
    id="namedview59"
    showgrid="false"
    inkscape:zoom="1.6491935"
    inkscape:cx="299.5763"
    inkscape:cy="213.90284"
-   inkscape:window-x="-11"
-   inkscape:window-y="-11"
+   inkscape:window-x="1912"
+   inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1" />
+   inkscape:current-layer="Layer_1"
+   inkscape:document-rotation="0" />
 <path
    style="fill:#FFFFFF;"
    d="M496,369.6c0,27.2-21.6,48.8-48,48.8H48c-26.4,0-48-21.6-48-48.8V126.4c0-27.2,21.6-48.8,48-48.8h400  c26.4,0,48,21.6,48,48.8V369.6z"
@@ -131,8 +132,8 @@
      x="79.785934"
      y="351.44254"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Dead Kansas';-inkscape-font-specification:'Dead Kansas';fill:#7f6644;fill-opacity:1">CALIFORNIA REPUBLIC</tspan></text><path
-   d="M 487.51627,77.999999 H 8.483736 C 4.0732852,77.999999 0.5,81.625004 0.5,86.095715 V 409.90491 C 0.5,414.37561 4.0732852,418 8.483736,418 H 391.70903 c 4.41045,0 7.98373,-3.62439 7.98373,-8.09509 0,-4.47072 -3.57328,-8.0951 -7.98373,-8.0951 H 16.468081 V 248 v -5.39672 -26.26843 -27.4297 -10.11901 -23.47595 -10.11902 -27.42968 -8.73125 -14.838809 h 3.991558 38.861211 47.3647 9.97981 23.15301 9.97982 47.36407 12.95539 25.90644 11.9759 231.53194 V 401.80982 h -88.06175 c -4.41045,0 5.62877,3.62438 5.62877,8.0951 0,4.4707 -10.03922,8.09508 -5.62877,8.09508 h 96.04609 c 4.41045,0 7.98373,-3.62439 7.98373,-8.09509 V 86.095715 c 0,-4.470713 -3.57328,-8.095716 -7.98373,-8.095716 z"
+   d="M 487.51627,77.999999 H 8.483736 C 4.0732852,77.999999 0.5,81.625004 0.5,86.095715 V 409.90491 C 0.5,414.37561 4.0732852,418 8.483736,418 H 391.70903 c 4.41045,0 7.98373,-1.62439 7.98373,-6.09509 0,-4.47072 -3.57328,-8.0951 -7.98373,-8.0951 H 14.468081 V 92.191431 c 467.063849,0 0,0 467.063849,0 V 403.80982 h -90.06175 c -4.41045,0 5.62877,1.62438 5.62877,6.0951 0,4.4707 -10.03922,8.09508 -5.62877,8.09508 h 96.04609 c 4.41045,0 7.98373,-3.62439 7.98373,-8.09509 V 86.095715 c 0,-4.470713 -3.57328,-8.095716 -7.98373,-8.095716 z"
    id="path62"
    inkscape:connector-curvature="0"
-   sodipodi:nodetypes="sssssssscccccccccccccccccccccccsssssss"
-   style="stroke-width:0.62305" /></svg>
+   sodipodi:nodetypes="ssssssssccccsssssss"
+   style="stroke-width:0.623;stroke-miterlimit:4;stroke-dasharray:none" /></svg>
