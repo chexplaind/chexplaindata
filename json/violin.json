@@ -1,0 +1,17 @@
+{
+    "titleEn": "violin",
+    "titleZh": "小提琴",
+    "icons": [
+        "violin"
+    ],
+    "jyutping": "cin4 baau1",
+    "pinyin": "qian2 bao1",
+    "explanation": "small carry instrument",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#570E0E22",
+    "tags": [
+        "music",
+        "object",
+        "meaning"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "titleEn": "longan",
+    "titleZh": "龍眼",
+    "icons": [
+        "longan"
+    ],
+    "jyutping": "lung4 ngaan5",
+    "pinyin": "lóng yǎn",
+    "explanation": "dragon eye",
+    "credit": "CC BY-NC 4.0",
+    "backgroundHex": "#30B70033",
+    "tags": [
+        "food",
+        "fruits",
+        "C2E"
+    ]
+}
