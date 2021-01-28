@@ -1,0 +1,18 @@
+{
+    "titleEn": "helicopter",
+    "titleZh": "直升機",
+    "icons": [
+        "helicopter"
+    ],
+    "jyutping": "zik6 sing1 gei1",
+    "pinyin": "zhí shēng jī",
+    "tailo": "ti̍t sing ki",
+    "explanation": "vertical ascending machine",
+    "credit": "CC BY-NC 4.0, exc icon made by monkik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#4b532022",
+    "tags": [
+        "transport",
+        "object",
+        "meaning"
+    ]
+}
