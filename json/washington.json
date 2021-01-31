@@ -1,0 +1,24 @@
+{
+    "titleEn": "Washington",
+    "titleZh": "華盛頓",
+    "titleEnAlts": [
+        "DC",
+        "Washington DC"
+    ],
+    "icons": [
+        "washington_capitol", 
+        "washington_monument",
+        "washington_memorial"
+    ],
+    "jyutping": "waa4 sing6 deon6",
+    "pinyin": "huá shèng dùn",
+    "explanation": "magnificent abundance stop",
+    "credit": "CC BY-NC 4.0, exc icon 1 by Flaticon and icon 3 by Smashicons from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#00008b33",
+    "tags": [
+        "cities",
+        "americas",
+        "united_states",
+        "E2C"
+    ]
+}
