@@ -1,0 +1,24 @@
+{
+    "titleEn": "red packet",
+    "titleEnAlts": [
+        "laisee",
+        "red envelope"
+    ],
+    "titleZh": "紅包",
+    "titleZhAlts": [
+        "利是"
+    ],
+    "icons": [
+        "laisee"
+    ],
+    "pinyin": "hóng bāo",
+    "tailo": "âng pau",
+    "explanation": "red packet",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#d6051c39",
+    "tags": [
+        "object",
+        "meaning",
+        "festival"
+    ]
+}

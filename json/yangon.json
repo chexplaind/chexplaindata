@@ -1,0 +1,18 @@
+{
+    "titleEn": "Yangon",
+    "titleEnAlts": ["Rangoon"],
+    "titleZh": "仰光",
+    "icons": [ "yangon_karaweik", "myanmar_flag", "yangon_pagoda" ],
+    "jyutping": "joeng5 gwong1",
+    "pinyin": "yǎng guāng",
+    "explanation": "admire light",
+    "credit": "CC BY-NC 4.0, exc icons 1, 2 made by mangsaabguru and 3 made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#53d9c433",
+    "tags": [
+        "cities",
+        "asia",
+        "myanmar",
+        "burma",
+        "E2C"
+    ]
+}
