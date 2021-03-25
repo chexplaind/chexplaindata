@@ -1,0 +1,16 @@
+{
+    "titleEn": "tomato",
+    "titleZh": "西紅柿",
+    "icons": [
+        "tomato"
+    ],
+    "pinyin": "xī hóng shì",
+    "explanation": "western red persimmon",
+    "credit": "CC BY-NC 4.0, exc icon made by Pixel perfect from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#9a382d33",
+    "tags": [
+        "food",
+        "fruits",
+        "E2C"
+    ]
+}

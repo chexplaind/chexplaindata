@@ -1,0 +1,16 @@
+{
+    "titleEn": "Lord of the Rings",
+    "titleZh": "魔戒",
+    "icons": [ "lord_of_the_rings_elf", "lord_of_the_rings_ring", "lord_of_the_rings_sauron" ],
+    "jyutping": "mo1 gaai3",
+    "pinyin": "mó jiè",
+    "explanation": "demon ring",
+    "credit": "CC BY-NC 4.0, exc icon 1, 3 made by Freepik and icon 2 made by Nikita Golubev from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#e7ceb566",
+    "tags": [
+        "art",
+        "movies",
+        "fictional",
+        "meaning"
+    ]
+}

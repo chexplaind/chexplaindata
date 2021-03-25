@@ -1,0 +1,17 @@
+{
+    "titleEn": "tomato",
+    "titleZh": "番茄",
+    "icons": [
+        "tomato"
+    ],
+    "jyutping": "faan1 ke2",
+    "pinyin": "fān qié",
+    "explanation": "foreign eggplant",
+    "credit": "CC BY-NC 4.0, exc icon made by Pixel perfect from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#9a382d33",
+    "tags": [
+        "food",
+        "fruits",
+        "E2C"
+    ]
+}
