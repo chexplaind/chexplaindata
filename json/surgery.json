@@ -1,0 +1,16 @@
+{
+    "titleEn": "surgery",
+    "titleZh": "手術",
+    "icons": [
+        "surgery"
+    ],
+    "jyutping": "sau2 seot6",
+    "pinyin": "shǒu shù",
+    "explanation": "hand arts",
+    "credit": "CC BY-NC 4.0",
+    "backgroundHex": "#46726333",
+    "tags": [
+        "activity",
+        "meaning"
+    ]
+}

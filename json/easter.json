@@ -1,0 +1,16 @@
+{
+    "titleEn": "Easter",
+    "titleZh": "復活節",
+    "icons": [
+        "easter_bunny", "easter_egg", "easter_resurrection"
+    ],
+    "jyutping": "fuk6 wut6 zit3",
+    "pinyin": "fù huó jié",
+    "explanation": "repeat alive festival",
+    "credit": "CC BY-NC 4.0, exc icons by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#e9aad166",
+    "tags": [
+        "festivals",
+        "meaning"
+    ]
+}
