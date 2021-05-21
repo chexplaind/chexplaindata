@@ -1,0 +1,17 @@
+{
+    "titleEn": "charity",
+    "titleZh": "慈善",
+    "icons": [
+        "charity"
+    ],
+    "jyutping": "ci4 sin6",
+    "pinyin": "cí shàn",
+    "explanation": "kind good",
+    "credit": "CC BY-NC 4.0",
+    "backgroundHex": "#f1d60020",
+    "tags": [
+        "phrases",
+        "activity",
+        "meaning"
+    ]
+}
