@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   enable-background="new 0 0 510 510"
+   height="512"
+   viewBox="0 0 510 510"
+   width="512"
+   version="1.1"
+   sodipodi:docname="landmine.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.59247814"
+     inkscape:cx="-188.1926"
+     inkscape:cy="183.12912"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10" />
+  <g
+     id="g10">
+    <g
+       id="g40"
+       transform="matrix(0.9765625,0,0,0.9765625,5.9765625,5.9765625)">
+      <path
+         id="XMLID_40_"
+         d="m 335.265,90 h 60.144 v 30 h -60.144 z"
+         fill="#e20055"
+         transform="matrix(0.664,-0.748,0.748,0.664,44.381,308.674)" />
+      <g
+         id="g7">
+        <path
+           d="m 240.385,37.5 v 60 h 15 l 10,-30 -10,-30 z"
+           fill="#ff6826"
+           id="path3" />
+        <path
+           d="m 255.385,37.5 h 15 v 60 h -15 z"
+           fill="#e20055"
+           id="path5" />
+      </g>
+      <g
+         id="g13">
+        <path
+           d="m 195,217.5 v 60 l 30.192,10 30.193,-10 10,-33.833 -10,-26.167 z"
+           fill="#ff6826"
+           id="path9" />
+        <path
+           d="m 315,217.5 h -59.615 v 60 l 29.807,10 29.808,-10 z"
+           fill="#e20055"
+           id="path11" />
+      </g>
+      <path
+         d="M 145.458,277.5 90,314.473 V 352.5 l 86.514,10 78.871,-10 10,-41.5 -10,-33.5 z"
+         fill="#5e7e82"
+         id="path15" />
+      <path
+         d="M 364.542,277.5 H 255.385 v 75 l 91.347,10 73.268,-10 v -38.027 z"
+         fill="#4b696f"
+         id="path17" />
+      <path
+         id="XMLID_38_"
+         d="m 130.048,74.671 h 30 v 60.658 h -30 z"
+         fill="#ff6826"
+         transform="matrix(0.742,-0.671,0.671,0.742,-32.966,124.365)" />
+      <g
+         id="g24">
+        <path
+           d="m 45,352.5 v 90 l 108.667,10 101.718,-10 10,-46.833 -10,-43.167 z"
+           fill="#4b696f"
+           id="path20" />
+        <path
+           d="M 465,352.5 H 255.385 v 90 l 104.807,10 104.808,-10 z"
+           fill="#374646"
+           id="path22" />
+      </g>
+      <path
+         id="XMLID_21_"
+         d="m 135,447.5 -15,-5 v -30 h 30 v 30 z"
+         fill="#5e7e82" />
+      <path
+         id="XMLID_34_"
+         d="m 375,447.5 -15,-5 v -30 h 30 v 30 z"
+         fill="#4b696f" />
+      <g
+         id="g32">
+        <path
+           d="m 240,412.5 v 30 l 7.692,5 7.693,-5 10,-15.5 -10,-14.5 z"
+           fill="#5e7e82"
+           id="path28" />
+        <path
+           d="m 270,412.5 h -14.615 v 30 l 7.307,5 7.308,-5 z"
+           fill="#4b696f"
+           id="path30" />
+      </g>
+      <g
+         id="g38">
+        <path
+           d="m 0,442.5 v 30 h 255.385 l 10,-12.833 -10,-17.167 z"
+           fill="#8fd871"
+           id="path34" />
+        <path
+           d="M 255.385,442.5 H 510 v 30 H 255.385 Z"
+           fill="#5db16a"
+           id="path36" />
+      </g>
+    </g>
+    <path
+       d="m 460.07812,412.207 v -87.89063 h -43.94531 v -37.13574 l -54.1582,-36.10644 h -48.38086 v -58.59375 h -117.1875 v 58.59375 h -48.38086 l -54.158203,36.10644 v 37.13574 H 49.921875 V 412.207 H 5.9765625 v 29.29687 H 504.02344 V 412.207 Z m -234.375,-190.42969 h 58.59375 v 29.29688 h -58.59375 z m -102.53906,81.08106 33.73242,-22.48731 h 196.20704 l 33.73242,22.48731 v 21.458 H 123.16406 Z M 386.83594,412.207 V 382.91012 H 357.53906 V 412.207 H 269.64844 V 382.91012 H 240.35156 V 412.207 H 152.46094 V 382.91012 H 123.16406 V 412.207 H 79.21875 v -58.59375 h 351.5625 V 412.207 Z"
+       id="path2"
+       style="stroke-width:0.976562" />
+  </g>
+</svg>

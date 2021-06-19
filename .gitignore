@@ -1,2 +1,3 @@
 # private secrets for deploying to live persistent storage
 deploy.md
+deploy.sh

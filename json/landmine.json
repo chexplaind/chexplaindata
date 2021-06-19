@@ -1,0 +1,15 @@
+{
+    "titleEn": "landmine",
+    "titleZh": "地雷",
+    "jyutping": "dei6 leoi4",
+    "pinyin": "dì léi",
+    "icons": [ "landmine" ],
+    "explanation": "ground thunder",
+    "credit": "CC BY-NC 4.0, exc icon made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#4b532033",
+    "tags": [
+        "phrases",
+        "weapons",
+        "meaning"
+    ]
+}
