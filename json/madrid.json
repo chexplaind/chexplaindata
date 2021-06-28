@@ -1,0 +1,16 @@
+{
+    "titleEn": "Madrid",
+    "titleZh": "馬德里",
+    "jyutping": "maa5 dak1 lei5",
+    "pinyin": "mǎ dé lǐ",
+    "icons": [ "madrid_flag", "madrid_metro", "madrid_gate" ],
+    "explanation": "horse virtue mile",
+    "credit": "CC BY-NC 4.0, exc icon 3 made by Freepik from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#fee379",
+    "tags": [
+        "cities",
+        "europe",
+        "spain",
+        "E2C"
+    ]
+}
