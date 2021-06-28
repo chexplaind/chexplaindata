@@ -2,13 +2,15 @@
     "titleEn": "Kowloon",
     "titleZh": "九龍",
     "icons": [
-        "kowloon_council", "kowloon_icc", "hongkong_flag"
+        "kowloon_council",
+        "kowloon_icc",
+        "hongkong_flag"
     ],
     "jyutping": "gau2 lung4",
-    "pinyin": "jiu3 long2",
+    "pinyin": "jiǔ lóng",
     "explanation": "nine dragons",
     "credit": "CC BY-NC 4.0, exc icon 3 made by Freepik from Flaticon licensed by CC 3.0 BY",
-    "backgroundHex": "#fcce0230",
+    "backgroundHex": "#fee98c",
     "tags": [
         "place",
         "asia",
