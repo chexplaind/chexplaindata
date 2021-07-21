@@ -1,0 +1,20 @@
+{
+    "titleEn": "eggplant",
+    "titleEnAlts": [
+        "aubergine"
+    ],
+    "titleZh": "矮瓜",
+    "icons": [
+        "eggplant"
+    ],
+    "jyutping": "aai2 gwaa1",
+    "explanation": "short melon",
+    "credit": "CC BY-NC 4.0, exc icon made by Pixel perfect from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#b995a8",
+    "tags": [
+        "food",
+        "fruits",
+        "vegetables",
+        "E2C"
+    ]
+}

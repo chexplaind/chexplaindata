@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="500"
+   height="500"
+   viewBox="59,59 382 382"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="beijing_subway.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.2133952"
+     inkscape:cx="253.42114"
+     inkscape:cy="256.71768"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1611" />
+  <title
+     id="title2">Beijing Subway simplified logo</title>
+  <g
+     stroke="#004A9D"
+     fill="none"
+     id="g10">
+    <g
+       id="g1746"
+       style="stroke:none;stroke-opacity:1">
+      <g
+         id="g1611"
+         style="stroke:none;stroke-opacity:1;fill:#004a9d;fill-opacity:1">
+        <path
+           id="path8"
+           style="color:#000000;fill:#005cc4;fill-opacity:1;stroke:#000000;stroke-width:20.7574;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="m 249.69054,77.018886 c -10.74594,-0.01569 -21.6296,0.977711 -32.53251,3.049471 C 129.93685,96.642111 69.316103,176.99171 77.235673,265.42693 85.155252,353.86213 159.0887,422.16139 247.86687,422.97399 336.6472,423.78664 411.8744,356.85747 421.4025,268.56661 l 2.05539,-19.05394 H 320.97481 v 34.41455 h 62.6594 C 368.25377,345.16049 312.9905,389.15443 248.18172,388.56121 176.80934,387.90791 117.88302,333.47652 111.51403,262.35622 105.14505,191.2359 153.46179,127.2023 223.58245,113.87799 c 70.1228,-13.32472 138.61857,28.52184 158.77112,97.02088 l 33.01364,-9.71447 C 393.43624,126.64048 324.9121,77.128734 249.69054,77.018886 Z m -77.24172,88.268674 v 168.45022 h 38.03715 V 165.28756 Z m 149.1557,2.20396 -33.86268,17.32758 c 21.08823,41.20879 21.08823,89.98964 0,131.19843 l 33.86268,17.32756 c 26.63971,-52.05702 26.63971,-113.79654 0,-165.85357 z m -149.1557,-2.20396 v 28.98068 h 148.52599 v -28.98068 z m 0,139.46953 v 28.98069 h 148.52599 v -28.98069 z" />
+      </g>
+    </g>
+  </g>
+</svg>

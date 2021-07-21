@@ -4,12 +4,12 @@
         "Peking"
     ],
     "titleZh": "北京",
-    "icons": [ "beijing_palace", "beijing_greatwall", "beijing_temple" ],
+    "icons": [ "beijing_cctv", "beijing_palace", "beijing_subway" ],
     "jyutping": "bak1 ging1",
-    "pinyin": "bei3 jing1",
+    "pinyin": "běi jīng",
     "explanation": "northern capital",
     "credit": "CC BY-NC 4.0, exc icons made by Freepik from Flaticon licensed by CC 3.0 BY",
-    "backgroundHex": "#ffde0030",
+    "backgroundHex": "#f0bbae",
     "tags": [
         "cities",
         "beijing",
