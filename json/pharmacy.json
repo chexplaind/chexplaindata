@@ -1,0 +1,17 @@
+{
+    "titleEn": "pharmacy",
+    "titleZh": "藥房",
+    "icons": [
+        "pharmacy"
+    ],
+    "jyutping": "joek6 fong4",
+    "pinyin": "yào fáng",
+    "tailo": "io̍h pâng",
+    "explanation": "drugs room",
+    "credit": "CC BY-NC 4.0",
+    "backgroundHex": "#c0e1c4",
+    "tags": [
+        "medicine",
+        "meaning"
+    ]
+}

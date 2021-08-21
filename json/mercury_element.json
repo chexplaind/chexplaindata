@@ -1,0 +1,17 @@
+{
+    "titleEn": "mercury",
+    "titleZh": "水銀",
+    "icons": [
+        "mercury_element"
+    ],
+    "jyutping": "seoi2 ngan4",
+    "pinyin": "shuǐ yín",
+    "tailo": "tsuí gûn",
+    "explanation": "water silver",
+    "credit": "CC BY-NC 4.0",
+    "backgroundHex": "#f7f469",
+    "tags": [
+        "medicine",
+        "meaning"
+    ]
+}
