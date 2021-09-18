@@ -1,0 +1,16 @@
+{
+    "titleEn": "egg yolk",
+    "titleZh": "蛋黃",
+    "icons": [
+        "egg_yolk"
+    ],
+    "jyutping": "daan2 wong4",
+    "pinyin": "dàn huáng",
+    "explanation": "egg yellow",
+    "credit": "CC BY-NC 4.0, exc icon made by Smashicons from Flaticon licensed by CC 3.0 BY",
+    "backgroundHex": "#F4BB29",
+    "tags": [
+        "food",
+        "meaning"
+    ]
+}
