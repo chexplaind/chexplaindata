@@ -1,0 +1,19 @@
+{
+    "titleEn": "Haiti",
+    "titleZh": "海地",
+    "icons": [
+        "haiti_flag"
+    ],
+    "jyutping": "hoi2 dei6",
+    "pinyin": "hǎi dì",
+    "explanation": "ocean land",
+    "credit": "CC BY-NC 4.0",
+    "backgroundHex": "#98FFAD",
+    "tags": [
+        "countries",
+        "americas",
+        "caribbean",
+        "haiti",
+        "E2C"
+    ]
+}

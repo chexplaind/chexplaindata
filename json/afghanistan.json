@@ -1,0 +1,18 @@
+{
+    "titleEn": "Afghanistan",
+    "titleZh": "阿富汗",
+    "icons": [
+        "afghanistan_flag"
+    ],
+    "jyutping": "aa3 fu3 hon6",
+    "pinyin": "ā fù hàn",
+    "explanation": "ah rich sweat",
+    "credit": "CC BY-NC 4.0",
+    "backgroundHex": "#edc9af",
+    "tags": [
+        "countries",
+        "afghanistan",
+        "asia",
+        "E2C"
+    ]
+}
