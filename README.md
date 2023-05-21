@@ -33,7 +33,7 @@ These are the available fields (so far!):
 9. `tailo` **Minnan/ Hokkien Pinyin** *(string)*:
 the Taiwanese Ministry of Education scheme is used as the standard.
 
-10. `credit` **Credit Small Print** *(string)*: always leading with "CC BY-NC 4.0", which is the IP license used by this repository. Then include the licenses of the icons used.
+10. `credit` **Credit Small Print** *(string)*: always leading with "CC BY-NC-SA 4.0", which is the IP license used by this repository. Then include the licenses of the icons used.
 
 11. `backgroundHex` **Background Colour Hex Code** *(string)*: always leading with "#" and set an alpha (transparency) level between 10 - 40.
 
