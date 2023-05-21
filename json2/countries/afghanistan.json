@@ -1,0 +1,49 @@
+{
+    "titleEn": "Afghanistan",
+    "titleZh": "阿富汗",
+    "icons": [
+        "openmoji/afghanistan_flag"
+    ],
+    "meaningEn": "ah rich sweat",
+    "credit": "CC BY-NC-SA 4.0, exc icon made by OpenMoji licensed under CC BY-SA 4.0",
+    "backgroundHex": "#edc9af22",
+    "tags": [
+        "countries",
+        "asia",
+        "phonetic"
+    ],
+    "characters": [
+        {
+            "traditional": "阿",
+            "simplified": "阿",
+            "pinyin": "ā",
+            "jyutping": "aa3",
+            "translations": [
+                "ah",
+                "affectionate prefix for names"
+            ]
+        },
+        {
+            "traditional": "富",
+            "simplified": "富",
+            "pinyin": "fù",
+            "jyutping": "fu3",
+            "translations": [
+                "abundant",
+                "ample",
+                "rich",
+                "wealthy"
+            ]
+        },
+        {
+            "traditional": "汗",
+            "simplified": "汗",
+            "pinyin": "hàn",
+            "jyutping": "hon6",
+            "translations": [
+                "perspiration",
+                "sweat"
+            ]
+        }
+    ]
+}

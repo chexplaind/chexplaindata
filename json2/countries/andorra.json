@@ -1,0 +1,52 @@
+{
+    "titleEn": "Andorra",
+    "titleZh": "安道爾",
+    "icons": [
+        "openmoji/andorra_flag"
+    ],
+    "meaningEn": "peaceful path that",
+    "credit": "CC BY-NC-SA 4.0, exc icon made by OpenMoji licensed under CC BY-SA 4.0",
+    "backgroundHex": "#174a7c22",
+    "tags": [
+        "countries",
+        "europe",
+        "phonetic"
+    ],
+    "characters": [
+        {
+            "traditional": "安",
+            "simplified": "安",
+            "pinyin": "ān",
+            "jyutping": "ngon1",
+            "translations": [
+                "peaceful",
+                "tranquil",
+                "quiet"
+            ]
+        },
+        {
+            "traditional": "道",
+            "simplified": "道",
+            "pinyin": "dào",
+            "jyutping": "dou6",
+            "translations": [
+                "path",
+                "road",
+                "street",
+                "method",
+                "way"
+            ]
+        },
+        {
+            "traditional": "爾",
+            "simplified": "尔",
+            "pinyin": "ěr",
+            "jyutping": "ji5",
+            "translations": [
+                "you",
+                "that",
+                "those"
+            ]
+        }
+    ]
+}

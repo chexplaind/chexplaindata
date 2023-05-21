@@ -1,0 +1,14 @@
+{
+    "titleEn": "Santa Claus",
+    "titleZh": "聖誕老人",
+    "icons": [ "santa_claus" ],
+    "jyutping": "sing3 daan3 lou5 jan4",
+    "pinyin": "shèng dàn lǎo rén",
+    "explanation": "Christmas old man",
+    "credit": "CC BY-NC 4.0, exc icon by from licensed by CC 3.0 BY",
+    "backgroundHex": "#99ccff",
+    "tags": [
+        "festivals",
+        "meaning"
+    ]
+}

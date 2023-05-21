@@ -1,0 +1,24 @@
+{
+    "titleEn": "faichun",
+    "titleEnAlts": [
+        "fai chun",
+        "chunlian"
+    ],
+    "titleZh": "揮春",
+    "titleZhAlts": [
+        "春聯"
+    ],
+    "iconPaths": [
+        "faichun_square.png"
+    ],
+    "jyutping": "baau3 zuk1",
+    "pinyin": "bao4 zhu2",
+    "explanation": "wave spring",
+    "credit": "CC BY-NC 4.0, excluding icon created by Umeicon, from Flaticon.com",
+    "backgroundHex": "#d6051c39",
+    "tags": [
+        "object",
+        "meaning",
+        "festival"
+    ]
+}
